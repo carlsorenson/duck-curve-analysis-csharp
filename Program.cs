@@ -10,7 +10,7 @@ using Microsoft.Extensions.Logging;
 
 namespace duck_curve_analysis_csharp
 {
-    public class Program
+    static public class Program
     {
         public static void Main(string[] args)
         {
